@@ -1,3 +1,4 @@
 add and remove users
 change the roles
 manage the database
+closing the connection
