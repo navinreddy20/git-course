@@ -6,3 +6,5 @@ create an avatar for user
 login and logout
 
 change 1
+
+//thank you for the course
